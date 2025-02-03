@@ -1,0 +1,150 @@
+{
+  "stories": [
+    {
+      "title": "ميرا والقرية",
+      "subTitle": "فتاة تعيش بقرية بعالمة الصغير",
+      "borderColor": "#FF6347",
+      "locked": false,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/village_story.jpg",
+      "navigateTo": "listen",
+      "set": "set1"
+    },
+    {
+      "title": "سر الكهف البلوري",
+      "subTitle": "استكشاف الأعاجيب بالعالم العتيق",
+      "borderColor": "#20B2AA",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/The_Secret_of_the_Crystal_Cave.jpg",
+      "navigateTo": "listen",
+      "set": "set2"
+    },
+    {
+      "title": "البحث عن المفتاح الفضي",
+      "subTitle": "رحلة عبر المملكة للبحث عن المفتاح",
+      "borderColor": "#9932CC",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/The_Quest_for_the_Silver_Key.jpg",
+      "navigateTo": "listen",
+      "set": "set3"
+    },
+    {
+      "title": "أغنية البحر المقمر",
+      "subTitle": "مغامرة مثيرة في المحيط",
+      "borderColor": "#106dee",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/The+Song+of+the+Moonlit+Sea+each+one+alone.jpg",
+      "navigateTo": "listen",
+      "set": "set4"
+    },
+    {
+      "title": "البوصلة الذهبية",
+      "subTitle": "حكاية عن مغامرة البحث عن الذهب",
+      "borderColor": "#FFD700",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/The+Mystery+of+the+Golden+Compass.jpg",
+      "navigateTo": "listen",
+      "set": "set5"
+    },
+    {
+      "title": "القناع الفضي",
+      "subTitle": "رحلة شاب لاكتشاف الشجاعة وإنقاذ قريته",
+      "borderColor": "#a0a0a0",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/The_Silver_Mask.jpg",
+      "navigateTo": "listen",
+      "set": "set6"
+    },
+    {
+      "title": "الفتاة التي خدعت النهر",
+      "subTitle": "الصدق وعواقب الكذب",
+      "borderColor": "#c10000",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/The_Girl_Who_Fooled_the_River.jpg",
+      "navigateTo": "listen",
+      "set": "set7"
+    },
+    {
+      "title": "الشجرة السحرية",
+      "subTitle": "قصة عن الطمع والصبر في مواجهة الإغراء",
+      "borderColor": "#228B22",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/The_Magical_Tree.jpg",
+      "navigateTo": "listen",
+      "set": "set8"
+    },
+    {
+      "title": "رحلة عبر البرد",
+      "subTitle": "مواجهة قسوة الطبيعة والتعلم من الأخطاء",
+      "borderColor": "#4682B4",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/The_Cold_Journey.jpg",
+      "navigateTo": "listen",
+      "set": "set9"
+    },
+    {
+      "title": "العبور إلى الجانب الآخر",
+      "subTitle": "الشجاعة واكتشاف الذات من خلال التغلب على المخاوف",
+      "borderColor": "#1E90FF",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/The_Passage_to_the_Other_Side.jpg",
+      "navigateTo": "listen",
+      "set": "set10"
+    }
+  ],
+  "exercises": [
+    {
+      "title": "تحدي البقاء على قمر أوروبا",
+      "subTitle": "البقاء في ظروف القمر الصعبة",
+      "borderColor": "#FF6347",
+      "locked": false,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/europe.webp",
+      "navigateTo": "exercise",
+      "set": "set1"
+    },
+    {
+      "title": "أطول مبنى في المدينة",
+      "subTitle": "استكشاف الأعاجيب المعمارية الحديثة",
+      "borderColor": "#20B2AA",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/building.webp",
+      "navigateTo": "exercise",
+      "set": "set2"
+    },
+    {
+      "title": "مغامرة في الفضاء",
+      "subTitle": "رحلة عبر النجوم والمجرات البعيدة",
+      "borderColor": "#9932CC",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/space.webp",
+      "navigateTo": "exercise",
+      "set": "set3"
+    },
+    {
+      "title": "التواصل في مكان العمل",
+      "subTitle": "تعلم طريقة التواصل بالعمل",
+      "borderColor": "#FF6347",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/europe.webp",
+      "navigateTo": "exercise",
+      "set": "set4"
+    },
+    {
+      "title": "الصحة والعافية",
+      "subTitle": "تعلم عن الصحة باللغة الانجليزية",
+      "borderColor": "#106dee",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/building.webp",
+      "navigateTo": "exercise",
+      "set": "set5"
+    },
+    {
+      "title": "الوعي البيئي",
+      "subTitle": "البيئة والعالم من حولك",
+      "borderColor": "#FFD700",
+      "locked": true,
+      "icon": "https://alsallum.s3.eu-north-1.amazonaws.com/space.webp",
+      "navigateTo": "exercise",
+      "set": "set6"
+    }
+  ]
+}

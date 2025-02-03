@@ -1,0 +1,68 @@
+{
+  "vocabularyCards": [
+    {
+      "key": "vocab1",
+      "label": "13 Atorvastatin side effects and how to manage them",
+      "imageUri": "https://alsallum.s3.eu-north-1.amazonaws.com/example.jpg",
+      "navigateTo": "vocabBasic"
+    },
+    {
+      "key": "vocab2",
+      "label": "13 Atorvastatin side effects and how to manage them",
+      "imageUri": "https://alsallum.s3.eu-north-1.amazonaws.com/example.jpg",
+      "navigateTo": "vocabBasic"
+    },
+    {
+      "key": "vocab3",
+      "label": "13 Atorvastatin side effects and how to manage them",
+      "imageUri": "https://alsallum.s3.eu-north-1.amazonaws.com/example.jpg",
+      "navigateTo": "vocabBasic"
+    },
+    {
+      "key": "vocab4",
+      "label": "13 Atorvastatin side effects and how to manage them",
+      "imageUri": "https://alsallum.s3.eu-north-1.amazonaws.com/example.jpg",
+      "navigateTo": "vocabBasic"
+    },
+    {
+      "key": "vocab5",
+      "label": "13 Atorvastatin side effects and how to manage them",
+      "imageUri": "https://alsallum.s3.eu-north-1.amazonaws.com/example.jpg",
+      "navigateTo": "vocabIntermediate"
+    }
+  ],
+  "vocabularyWords": [
+    {
+      "text": "Apple",
+      "imagePath": "https://alsallum.s3.eu-north-1.amazonaws.com/flask.png",
+      "navigateTo": "vocabulary/vocabulary",
+      "set": "set1"
+    },
+    {
+      "text": "Mango",
+      "imagePath": "https://alsallum.s3.eu-north-1.amazonaws.com/flask.png",
+      "navigateTo": "vocabulary/vocabulary",
+      "set": "set2"
+    },
+    {
+      "text": "Orange",
+      "imagePath": "https://alsallum.s3.eu-north-1.amazonaws.com/profile.png",
+      "navigateTo": "vocabulary/vocabulary",
+      "set": "set3"
+    }
+  ],
+  "ticketWords": [
+    {
+      "text": "Atorvastatin 40mg",
+      "imagePath": "https://alsallum.s3.eu-north-1.amazonaws.com/example.jpg",
+      "navigateTo": "vocabulary/vocabulary",
+      "set": "set1"
+    },
+    {
+      "text": "Amlodipine 10mg",
+      "imagePath": "https://via.placeholder.com/100x100?text=Orange",
+      "navigateTo": "vocabulary/vocabulary",
+      "set": "set2"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+# Node.js dependencies
+/node_modules/
+/yarn-error.log
+/npm-debug.log*
+/package-lock.json
+/.pnp
+.pnp.js
+.env
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IntelliJ
+.idea/
+
+# Build outputs
+*.xcarchive
+*.ipa
+*.app.dSYM
+*.app
+
+# iOS
+/ios/build/
+/ios/Pods/
+/ios/DerivedData/
+/ios/.DS_Store
+/ios/*.xcodeproj/project.xcworkspace
+/ios/*.xcuserdatad
+/ios/*.xcuserdata
+
+# Android
+/android/.gradle
+/android/app/build/
+/android/build/
+/android/local.properties
+/android/*.iml
+/android/.idea/
+
+# React Native
+*.lock
+*.log
+.expo
+.expo-shared
+/*.expo
+/*.expo-shared
+/node_modules
+
+# Test
+

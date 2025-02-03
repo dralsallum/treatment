@@ -1,0 +1,55 @@
+{
+  "sets": [
+    { "value": "set1", "label": "Set 1 - Introduction" },
+    { "value": "set2", "label": "Set 2 - Basics" },
+    { "value": "set3", "label": "Set 3 - Advanced" },
+    { "value": "set4", "label": "Set 4 - Expert" },
+    { "value": "set5", "label": "Set 5 - Mastery" },
+    { "value": "set6", "label": "Set 6 - Professional" },
+    { "value": "set7", "label": "Set 7 - Fluent" },
+    { "value": "set8", "label": "Set 8 - Native" },
+    { "value": "set9", "label": "Set 9 - Proficient" },
+    { "value": "set10", "label": "Set 10 - Advanced Proficient" }
+  ],
+  "tests": [
+    { "value": "test1", "label": "Test 1 - Daily Vocabulary" },
+    { "value": "test2", "label": "Test 2 - Common Phrases" },
+    { "value": "test3", "label": "Test 3 - Idioms" },
+    { "value": "test4", "label": "Test 4 - Technical Terms" },
+    { "value": "test5", "label": "Test 5 - Academic Vocabulary" },
+    { "value": "test6", "label": "Test 6 - Academic Vocabulary" },
+    { "value": "test7", "label": "Test 7 - Academic Vocabulary" },
+    { "value": "test8", "label": "Test 8 - Academic Vocabulary" },
+    { "value": "test9", "label": "Test 9 - Academic Vocabulary" },
+    { "value": "test10", "label": "Test 10 - Academic Vocabulary" }
+  ],
+  "lists": [
+    { "value": "list1", "label": "List 1 - Daily Vocabulary" },
+    { "value": "list2", "label": "List 2 - Common Phrases" },
+    { "value": "list3", "label": "List 3 - Idioms" },
+    { "value": "list4", "label": "List 4 - Technical Terms" },
+    { "value": "list5", "label": "List 5 - Academic Vocabulary" },
+    { "value": "list6", "label": "List 6 - Academic Vocabulary" },
+    { "value": "list7", "label": "List 7 - Academic Vocabulary" },
+    { "value": "list8", "label": "List 8 - Academic Vocabulary" },
+    { "value": "list9", "label": "List 9 - Academic Vocabulary" },
+    { "value": "list10", "label": "List 10 - Academic Vocabulary" }
+  ],
+  "medicals": [
+    { "value": "medical1", "label": "Medical1 1 - Daily Vocabulary" },
+    { "value": "medical2", "label": "Medical1 2 -  - Common Phrases" },
+    { "value": "medical3", "label": "Medical1 3 - Academic Vocabulary" }
+  ],
+  "similars": [
+    { "value": "similar1", "label": "Similar 1 - Homonyms" },
+    { "value": "similar2", "label": "Similar 2 - Synonyms" },
+    { "value": "similar3", "label": "Similar 3 - Antonyms" },
+    { "value": "similar4", "label": "Similar 4 - Antonyms" },
+    { "value": "similar5", "label": "Similar 5 - Antonyms" },
+    { "value": "similar6", "label": "Similar 6 - Antonyms" },
+    { "value": "similar7", "label": "Similar 7 - Antonyms" },
+    { "value": "similar8", "label": "Similar 8 - Antonyms" },
+    { "value": "similar9", "label": "Similar 9 - Antonyms" },
+    { "value": "similar10", "label": "Similar 10 - Antonyms" }
+  ]
+}
